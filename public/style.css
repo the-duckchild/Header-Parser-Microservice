@@ -1,8 +1,8 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: #fc0c0c;
+	background-color: #bdca94;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -24,7 +24,7 @@ code {
   font-family: monospace;
   padding: 2px;
   color: black;
-  background-color: #fff;
+  background-color: #6e5bdb;
 }
 
 a {
